@@ -1,4 +1,5 @@
 # color-test
 Exercise to create colors using "change"
-testing change functions and studying DOM.
+Testing change functions and studying DOM to create a button that controls the amount of RGB in the background.
+
 
